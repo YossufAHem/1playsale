@@ -1,5 +1,5 @@
 token=NTE1MzI4OTg0MDI5MDY5MzEy.DtjhHQ.2kPMlVAT1ZP9l71HDkk41B94dkM 
-owner=ا429640585683664897 
+owner=429640585683664897 
 prefix= N
 game= Nhelp
 stayinchannel=true
